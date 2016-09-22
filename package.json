@@ -1,0 +1,15 @@
+{
+  "name": "node-zdc",
+  "version": "1.0.0",
+  "description": "nodejs sdk for zdc platform",
+  "main": "index.js",
+  "keywords": [
+    "sdk",
+    "zdc"
+  ],
+  "author": "Laurent Renard",
+  "license": "MIT",
+  "dependencies": {
+    "zdc-client": "^1.1.0"
+  }
+}
