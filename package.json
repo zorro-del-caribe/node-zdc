@@ -1,5 +1,5 @@
 {
-  "name": "node-zdc",
+  "name": "zdc",
   "version": "1.0.0",
   "description": "nodejs sdk for zdc platform",
   "main": "index.js",
